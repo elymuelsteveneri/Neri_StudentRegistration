@@ -1,0 +1,24 @@
+[
+  {
+    "FirstName": "Elymuel",
+    "LastName": "Steve",
+    "MiddleInitial": "Rfsdfsdfsdf",
+    "Birthdate": "2000-01-01T00:00:00",
+    "Gender": "Female",
+    "Address": "asdsadsa",
+    "Course": "BSIT",
+    "Year": "1",
+    "StudentImage": "C:\\Users\\Student\\Downloads\\image-removebg-preview.png"
+  },
+  {
+    "FirstName": "Awdad",
+    "LastName": "Wdawdw",
+    "MiddleInitial": "Awd",
+    "Birthdate": "2000-01-01T00:00:00",
+    "Gender": "Male",
+    "Address": "awdawd",
+    "Course": "BSIT",
+    "Year": "1",
+    "StudentImage": "C:\\Users\\Student\\Downloads\\image-removebg-preview.png"
+  }
+]
